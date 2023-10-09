@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "38728355c5303f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "6929a9bd29cb7518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c499c3a0614f26da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/OVA file.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76b4b97d83ae72b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "666bfc8c678605f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28c312cd65e2be84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43f9f0ffd66a0d5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76d4c2c20f7ae46e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f19c784c62f24332",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e90d2b2c26f3505d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "0c799eff9ce64e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "9742c9b00d58c373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de81b41e1216049",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/OVA file.md"
+              }
+            }
+          },
+          {
+            "id": "eb4ff8f64f36c681",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "e7f02750504cdc99",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6c6e2f645c4ee15",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c499c3a0614f26da",
+  "lastOpenFiles": [
+    "Resources/Codes/README.md",
+    "Resources/OVA file.md",
+    "Resources/Codes/attachments/Code.zip",
+    "Resources/Codes/attachments",
+    "Resources/Project/README.md",
+    "Resources/Project/attachments/Auction.zip",
+    "Resources/Project/attachments",
+    "Resources/Project",
+    "Resources",
+    "Week 1/README.md",
+    "Resources/Codes",
+    "Week 1/4.Evaluation",
+    "Week 1/3.Ethereum APIs",
+    "Week 1/2.Dapp Defined",
+    "Week 1/attachments/Pasted image 20231010022202.png",
+    "Week 1/attachments/Pasted image 20231010022154.png",
+    "Week 1/attachments/Pasted image 20231010022144.png",
+    "README.md",
+    "Module 4/2.Key takeaways/attachments/Pasted image 20231004065030.png",
+    "Module 4/1.Final Course Project/Programming Assignment.md",
+    "Module 4/2.Key takeaways/Takeaways.md",
+    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064646.png",
+    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064635.png",
+    "Module 4/1.Final Course Project/Assignment Description.md",
+    "Module 4/1.Final Course Project/Reading.md",
+    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064448.png",
+    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064441.png",
+    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064434.png",
+    "Module 4/0.Best Practices/Reading.md",
+    "Module 4/0.Best Practices/attachments/Pasted image 20231004064337.png",
+    "Module 4/0.Best Practices/Video 2.md",
+    "Module 4/0.Best Practices/Video 3.md",
+    "Module 4/0.Best Practices/Video 1.md",
+    "Module 4/README.md",
+    "Module 3/Week 3 Evaluation/Quiz.md",
+    "Module 3/3.Client Applications/Quiz.md",
+    "Module 3/3.Client Applications/Reading.md",
+    "Module 3/3.Client Applications/Video 2.md",
+    "Module 3/3.Client Applications/Video 1.md",
+    "Module 3/2.Validation and Test/Quiz.md",
+    "Module 3/2.Validation and Test/Reading.md",
+    "Module 3/2.Validation and Test/Video 2.md",
+    "Module 3/2.Validation and Test/Video 1.md",
+    "Module 3/1.Time Elements/Quiz.md",
+    "Codes/BallotWithStages.md",
+    "Untitled.canvas"
+  ]
+}
