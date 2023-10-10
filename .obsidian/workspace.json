@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/OVA file.md",
+                "file": "Week 1/1.Blockchain Server/Quiz.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/OVA file.md"
+                "file": "Week 1/1.Blockchain Server/Quiz.md"
               }
             }
           },
@@ -161,8 +161,22 @@
   },
   "active": "c499c3a0614f26da",
   "lastOpenFiles": [
-    "Resources/Codes/README.md",
+    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010113854.png",
+    "Week 1/1.Blockchain Server/Video 1.md",
+    "Week 1/1.Blockchain Server/Quiz.md",
+    "Week 1/1.Blockchain Server/Reading.md",
+    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010113050.png",
+    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010113035.png",
+    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010111226.png",
+    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010111219.png",
+    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010111217.png",
+    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010110945.png",
+    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010110919.png",
+    "Week 1/1.Blockchain Server/attachments/index.mp4",
+    "Week 1/1.Blockchain Server/attachments",
+    "Week 1/1.Blockchain Server/New folder",
     "Resources/OVA file.md",
+    "Resources/Codes/README.md",
     "Resources/Codes/attachments/Code.zip",
     "Resources/Codes/attachments",
     "Resources/Project/README.md",
@@ -172,25 +186,15 @@
     "Resources",
     "Week 1/README.md",
     "Resources/Codes",
-    "Week 1/4.Evaluation",
-    "Week 1/3.Ethereum APIs",
-    "Week 1/2.Dapp Defined",
     "Week 1/attachments/Pasted image 20231010022202.png",
     "Week 1/attachments/Pasted image 20231010022154.png",
     "Week 1/attachments/Pasted image 20231010022144.png",
     "README.md",
-    "Module 4/2.Key takeaways/attachments/Pasted image 20231004065030.png",
     "Module 4/1.Final Course Project/Programming Assignment.md",
     "Module 4/2.Key takeaways/Takeaways.md",
-    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064646.png",
-    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064635.png",
     "Module 4/1.Final Course Project/Assignment Description.md",
     "Module 4/1.Final Course Project/Reading.md",
-    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064448.png",
-    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064441.png",
-    "Module 4/1.Final Course Project/attachments/Pasted image 20231004064434.png",
     "Module 4/0.Best Practices/Reading.md",
-    "Module 4/0.Best Practices/attachments/Pasted image 20231004064337.png",
     "Module 4/0.Best Practices/Video 2.md",
     "Module 4/0.Best Practices/Video 3.md",
     "Module 4/0.Best Practices/Video 1.md",
@@ -203,9 +207,6 @@
     "Module 3/2.Validation and Test/Quiz.md",
     "Module 3/2.Validation and Test/Reading.md",
     "Module 3/2.Validation and Test/Video 2.md",
-    "Module 3/2.Validation and Test/Video 1.md",
-    "Module 3/1.Time Elements/Quiz.md",
-    "Codes/BallotWithStages.md",
     "Untitled.canvas"
   ]
 }
