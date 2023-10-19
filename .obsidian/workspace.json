@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/1.Blockchain Server/Quiz.md",
+                "file": "Week 1/2.Dapp Defined/Reading.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/1.Blockchain Server/Quiz.md"
+                "file": "Week 1/2.Dapp Defined/Reading.md"
               }
             }
           },
@@ -161,17 +161,25 @@
   },
   "active": "c499c3a0614f26da",
   "lastOpenFiles": [
+    "Week 1/2.Dapp Defined/Quiz.md",
+    "Week 1/2.Dapp Defined/attachments/Pasted image 20231010130034.png",
+    "Week 1/2.Dapp Defined/Video 1.md",
+    "Week 1/2.Dapp Defined/Reading.md",
+    "Week 1/1.Blockchain Server/Reading.md",
+    "Week 1/2.Dapp Defined/attachments/Pasted image 20231010125512.png",
+    "Week 1/2.Dapp Defined/attachments/Pasted image 20231010125503.png",
+    "Week 1/2.Dapp Defined/attachments/index_2.mp4",
+    "Week 1/2.Dapp Defined/attachments",
+    "Week 1/2.Dapp Defined/New folder",
+    "Week 1/1.Blockchain Server/Quiz.md",
     "Week 1/1.Blockchain Server/attachments/Pasted image 20231010113854.png",
     "Week 1/1.Blockchain Server/Video 1.md",
-    "Week 1/1.Blockchain Server/Quiz.md",
-    "Week 1/1.Blockchain Server/Reading.md",
     "Week 1/1.Blockchain Server/attachments/Pasted image 20231010113050.png",
     "Week 1/1.Blockchain Server/attachments/Pasted image 20231010113035.png",
     "Week 1/1.Blockchain Server/attachments/Pasted image 20231010111226.png",
     "Week 1/1.Blockchain Server/attachments/Pasted image 20231010111219.png",
     "Week 1/1.Blockchain Server/attachments/Pasted image 20231010111217.png",
     "Week 1/1.Blockchain Server/attachments/Pasted image 20231010110945.png",
-    "Week 1/1.Blockchain Server/attachments/Pasted image 20231010110919.png",
     "Week 1/1.Blockchain Server/attachments/index.mp4",
     "Week 1/1.Blockchain Server/attachments",
     "Week 1/1.Blockchain Server/New folder",
@@ -182,13 +190,7 @@
     "Resources/Project/README.md",
     "Resources/Project/attachments/Auction.zip",
     "Resources/Project/attachments",
-    "Resources/Project",
-    "Resources",
     "Week 1/README.md",
-    "Resources/Codes",
-    "Week 1/attachments/Pasted image 20231010022202.png",
-    "Week 1/attachments/Pasted image 20231010022154.png",
-    "Week 1/attachments/Pasted image 20231010022144.png",
     "README.md",
     "Module 4/1.Final Course Project/Programming Assignment.md",
     "Module 4/2.Key takeaways/Takeaways.md",
@@ -204,9 +206,6 @@
     "Module 3/3.Client Applications/Reading.md",
     "Module 3/3.Client Applications/Video 2.md",
     "Module 3/3.Client Applications/Video 1.md",
-    "Module 3/2.Validation and Test/Quiz.md",
-    "Module 3/2.Validation and Test/Reading.md",
-    "Module 3/2.Validation and Test/Video 2.md",
     "Untitled.canvas"
   ]
 }
